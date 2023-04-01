@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLjaidi%2FdroidVncServer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLjaidi%2FdroidVncServer?ref=badge_shield)
+
 The droid-VNC-server projects consists in three main modules parts: the daemon, wrapper libs and the GUI.
 
 - Daemon -
@@ -33,3 +35,7 @@ To build:
 
 -------------- Compile GUI------- -------------------
 Import using eclipse as a regular Android project
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLjaidi%2FdroidVncServer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLjaidi%2FdroidVncServer?ref=badge_large)
